@@ -1,0 +1,7 @@
+name: Throwables Plus
+version: @version@
+main: world.farfrom.throwablesplus.ThrowablesPlus
+api-version: 1.15
+prefix: Throwables+
+authors: [ Epic ]
+description: Throw everything to your hearts desire
